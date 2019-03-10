@@ -9,7 +9,7 @@ All PRs merged here will be automatically tweeted on [@nodenock](http://twitter.
 - Interesting usage of nock
 - Everything about http mocking, beyond just nock
 - Interesting use cases of nock
-- Items relevant to the Nock community
+- Items relevant to the nock community
 - Code related comments in regards to nock (refactors, TODOs, and so on)
 
 One accept is enough for a merge.
