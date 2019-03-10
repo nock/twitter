@@ -16,4 +16,4 @@ One accept is enough for a merge.
 
 ## License
 
-CC0 © 2019 Contributors.
+[CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) © 2019 Contributors.
