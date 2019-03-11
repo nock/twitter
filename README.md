@@ -1,6 +1,9 @@
 # twitter
+> A repository to collaborate on tweets using [twitter-together](https://github.com/gr2m/twitter-together).
 
-Collaborate on our tweets
+## How to contribute a tweet
+
+Follow [these instructions](./tweets) for a detailed guide, but the short version is: create a `.tweet` file in `/tweets` and open a pull request. We'll review it, and once it's merged, the [@nodenock](https://twitter.com/ProbotTheRobot) Twitter account will tweet it out!
 
 ## What to Tweet
 
