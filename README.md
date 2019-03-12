@@ -9,11 +9,11 @@ Follow [these instructions](./tweets) for a detailed guide, but the short versio
 
 All PRs merged here will be automatically tweeted on [@nodenock](http://twitter.com/nodenock). Anyone is encouraged to craft and form a tweet, by opening a PR in the tweets folder. Possible topics include:
 
-- Interesting usage of nock
+- Interesting usage / us cases of nock
 - Everything about http mocking, beyond just nock
-- Interesting use cases of nock
-- Items relevant to the nock community
+- Node testing philosophy and strategy
 - Code related comments in regards to nock (refactors, TODOs, and so on)
+- Other items relevant to the nock community
 
 One accept is enough for a merge.
 
