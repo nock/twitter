@@ -1,2 +1,7 @@
-Nock's 13.x release is already live on next and close to being shipped on latest! The team would like outside feedback on the release.
-If you have a moment, please give it a try. https://github.com/nock/nock/releases/tag/v13.0.0
+📯 Nock's 13.x is about to be released! We would love your feedback before the release hits latest on npm.
+
+https://github.com/nock/nock/releases/tag/v13.0.0
+
+You can test the upcoming release today using:
+
+npm install --save-dev nock@next
